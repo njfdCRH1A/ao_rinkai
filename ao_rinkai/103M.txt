@@ -1,0 +1,8 @@
+BveTs Map 2.02
+Structure.Load('structures_common.txt');
+Section.SetSpeedLimit(0,25,55,75,100,null);
+Station.Load('stations103M.csv');
+$a=-2;
+$b=2;
+include 'map\a01_1.txt';
+include 'map\ka_1.txt';
