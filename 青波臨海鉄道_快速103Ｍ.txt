@@ -1,0 +1,10 @@
+﻿BveTs Scenario 2.00
+
+RouteTitle = 青波臨海鉄道
+Route = CRH1A\Route\ao_rinkai\103M.txt
+VehicleTitle = kiha40
+Vehicle = K_SEI3500R\Vehicle.txt
+Author = CRH1A
+Title = 
+Image = 
+Comment = 
